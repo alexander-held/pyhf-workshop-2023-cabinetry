@@ -1,5 +1,5 @@
-cabinetry[contrib] @ git+https://github.com/scikit-hep/cabinetry.git@787c577dafcd91d7cc1b18e7b96c747a88c61c1d
-pyhf[tensorflow,contrib]==0.7.5
-hist[plot]==2.6.3
+cabinetry[contrib] @ git+https://github.com/scikit-hep/cabinetry.git@5536dd8b00303d34c659098a6a9103e54ddcea99
+pyhf[jax,contrib]==0.7.5
+hist[plot]==2.7.2
 # Ensure Jupyter notebook
 jupyter~=1.0
