@@ -1,6 +1,7 @@
 # `cabinetry` at the `pyhf` Users and Developers Workshop 2023
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexander-held/pyhf-workshop-2023-cabinetry/HEAD?labpath=talk.ipynb)
+* mybinder.org: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexander-held/pyhf-workshop-2023-cabinetry/HEAD?labpath=talk.ipynb)
+* IRIS-HEP SSL BinderHub: [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/alexander-held/pyhf-workshop-2023-cabinetry/HEADgpu_false?labpath=talk.ipynb)
 
 *Contribution to [pyhf Users and Developers Workshop 2023](https://indico.cern.ch/event/1294577/), based on a [contribution to the Belle II pyhf workshop](https://indico.belle2.org/event/8470/)*
 
