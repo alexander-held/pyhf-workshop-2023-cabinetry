@@ -1,5 +1,6 @@
 # `cabinetry` at the `pyhf` Users and Developers Workshop 2023
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10255643.svg)](https://doi.org/10.5281/zenodo.10255643)
 * mybinder.org: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexander-held/pyhf-workshop-2023-cabinetry/HEAD?labpath=talk.ipynb)
 * IRIS-HEP SSL BinderHub: [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/alexander-held/pyhf-workshop-2023-cabinetry/HEADgpu_false?labpath=talk.ipynb)
 
